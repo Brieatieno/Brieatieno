@@ -10,6 +10,6 @@ Strong Languages: Excel, SQL and Python.
 - 🌱 I’m currently enahancing my python programming skills.
 - 💬 Ask me about Data Analysis, Machine Learning and Data Science.
 - 📫 How to reach me: Email: atienobrenda256@gmail.com and check out my articles on https://dev.to/brieatieno
--->
+
 
 
