@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Brenda Atieno. I am a passionate data analyst and statistician with over one year practical hands on data analysis approaches and skills used to store, process, and manage data that achieve best results. First-rate mathematics and computer skills, sound knowledge of Excel, Python Power BI and SQL. I combine my software knowledge and data analysis skills to solve problems and help businesses make profitable and informed decisions through building data driven products that can derive insights from customers.
+I am Brenda Atieno. I am a passionate data analyst and statistician with over one year practical hands on data analysis approaches and skills used to store, process, and manage data that achieve best results.Sound knowledge of Excel, Python Power BI , SQL and first-rate mathematics and computer skills. I combine my software knowledge and data analysis skills to solve problems and help businesses make profitable and informed decisions through building data driven products that can derive insights from customers.
 
 An enormous amount of my time is spent in data and tech communities and learning new things that I hope will help buid my knowledge in various aspects of the data world in some way.
 
